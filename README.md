@@ -1,5 +1,5 @@
 # "przepis na najlepsze ciasto" 
-- [ ] :Urodziny:
+- [ ] :birthday:
 
 ![kaczor](https://media.giphy.com/media/iozt7fbfQO8V2/giphy.gif)
 
