@@ -43,26 +43,4 @@ Wszystkie składniki wymieszać i nasączyć 3 biszkopty.
 
 Przełożenie placka:
 
-Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany z obu stron cienką warstwą masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany od spodu cienką warstwą masy orzechowej – polewa udekorowana kokosem.
-
-Rodzaj przepisu: Ciasta
-Tagi: biszkopt, ciasto, kokos, masa, orzechy, poncz
-Składniki: budyń waniliowy, cukier, cytryna, jaja, masło, mleko, orzechy, spirytus, wiórki kokosowe, woda
-Książka: Wielka księga ciast siostry Anastazji
-   
- Siostra Anastazja
-Siostra Anastazja
-Zobacz inne przepisy »
-Średnia ocena czytelników
-
-	(3.5 / 5)
-Oceń ten przepis
-
-    
-
-20 osoba ocenił(a) ten przepis
-
-Podobne przepisy:
-
-3
-Naleśniki z farszem szpinakowym)
+Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany z obu stron cienką warstwą masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany od spodu cienką warstwą masy orzechowej – polewa udekorowana kokosem.)
