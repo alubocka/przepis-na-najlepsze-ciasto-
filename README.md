@@ -5,12 +5,12 @@
 
 Składniki:
 
-25 dag masła
-1/2 l mleka
-2 budynie waniliowe bez cukru
-2-3 łyżki cukru kryształu
-5-6 łyżek mielonych orzechów
-2-3 łyżki spirytusu
+- 25 dag masła
+- 1/2 l mleka
+- 2 budynie waniliowe bez cukru
+- 2-3 łyżki cukru kryształu
+- 5-6 łyżek mielonych orzechów
+- 2-3 łyżki spirytusu
 
 Wykonanie:
 
@@ -44,4 +44,4 @@ Wszystkie składniki wymieszać i nasączyć 3 biszkopty.
 
 Przełożenie placka:
 
-Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany z obu stron cienką warstwą masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany od spodu cienką warstwą masy orzechowej – polewa udekorowana kokosem.)
+Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany z obu stron cienką warstwą masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany od spodu cienką warstwą masy orzechowej – polewa udekorowana kokosem.
