@@ -46,7 +46,7 @@ Poncz:
 Składniki:
 
 - 1 szklanka zimnej, przegotowanej wody
-- sok z 3 cytryn
+- sok z 3 cytrynsok z 3 cytryn
 - 2 łyżki cukru kryształu
 
 Wykonanie:
@@ -60,3 +60,9 @@ Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej �
 składniki na ciasto | składniki na masę |składniki na poncz
 --------------------|-------------------|-------------------|
 25 dag masła|50 dag masła|1 szklanka zimnej, przegotowanej wody
+1/2 l mleka|2 jaja|sok z 3 cytry
+2 budynie waniliowe bez cukru|1 1/2 szklanki cukru kryształu|2 łyżki cukru kryształu
+2-3 łyżki cukru kryształu|1 szklanka mleka|  
+5-6 łyżek mielonych orzechów| |
+2-3 łyżki spirytusu| |
+
