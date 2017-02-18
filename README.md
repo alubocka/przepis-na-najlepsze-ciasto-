@@ -1,5 +1,8 @@
 # "przepis na najlepsze ciasto"  :birthday:
 
+>„Nie ma bardziej szczerej miłości niż miłość do jedzenia”.
+George Bernard Shaw
+
 
 ![kaczor](https://media.giphy.com/media/iozt7fbfQO8V2/giphy.gif)
 
