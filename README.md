@@ -1,2 +1,2 @@
 # "przepis na najlepsze ciasto"
--*lista zakupów*
+*lista zakupów*
