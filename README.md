@@ -2,9 +2,6 @@
 
 ![kaczor](https://media.giphy.com/media/iozt7fbfQO8V2/giphy.gif)
 
-już liczysz zyski
-
-
 
 ![ciasto](http://siostra-anastazja.pl/wp-content/uploads/Ciasto-anielskie21-250x212.jpg)
 
