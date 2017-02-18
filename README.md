@@ -57,3 +57,6 @@ Przełożenie placka:
 
 Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany z obu stron cienką warstwą masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany od spodu cienką warstwą masy orzechowej – polewa udekorowana kokosem.
 
+składniki na ciasto | składniki na masę |składniki na poncz
+--------------------|-------------------|-------------------|
+25 dag masła|50 dag masła|1 szklanka zimnej, przegotowanej wody
