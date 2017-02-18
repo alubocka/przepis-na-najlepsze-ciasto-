@@ -1,6 +1,6 @@
 # "przepis na najlepsze ciasto"
 
-![kaczor](https://media0.giphy.com/media/iozt7fbfQO8V2/200.webp#26)
+![kaczor](https://media.giphy.com/media/iozt7fbfQO8V2/giphy.gif)
 
 
 
