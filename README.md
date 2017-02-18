@@ -2,7 +2,7 @@
 
 ![kaczor](https://media.giphy.com/media/iozt7fbfQO8V2/giphy.gif)
 
-![mały koszt - duży zysk]
+mały koszt - duży zysk
 
 
 
