@@ -20,11 +20,10 @@ Masa kokosowa:
 
 Składniki:
 
-50 dag masła
-2 jaja
-1 1/2 szklanki cukru kryształu
-20 dag wiórków kokosowych
-1 szklanka mleka
+- 50 dag masła
+- 2 jaja
+- 1 1/2 szklanki cukru kryształu
+- 1 szklanka mleka
 
 Wykonanie:
 
@@ -34,9 +33,9 @@ Poncz:
 
 Składniki:
 
-1 szklanka zimnej, przegotowanej wody
-sok z 3 cytryn
-2 łyżki cukru kryształu
+- 1 szklanka zimnej, przegotowanej wody
+- sok z 3 cytryn
+- 2 łyżki cukru kryształu
 
 Wykonanie:
 
