@@ -24,7 +24,7 @@ składniki na ciasto | składniki na masę |składniki na poncz
 2-3 łyżki spirytusu| |
 
 
-###**1. Ciasto:**
+###**1. Masa orzechowa:**
 
   1.1. **_Składniki:_**
 
