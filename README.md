@@ -13,7 +13,7 @@ mały koszt - duży zysk
 
 adres strony:(http://siostra-anastazja.pl/przepis/ciasto-anielskie.htm)
 
-_*lista zakupów*_
+*_lista zakupów_*
 
 składniki na ciasto | składniki na masę |składniki na poncz
 --------------------|-------------------|-------------------|
