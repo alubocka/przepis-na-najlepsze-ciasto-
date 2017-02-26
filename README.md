@@ -13,7 +13,7 @@ mały koszt - duży zysk
 
 adres strony:(http://siostra-anastazja.pl/przepis/ciasto-anielskie.htm)
 
-*_lista zakupów_*
+_*lista zakupów*_
 
 składniki na ciasto | składniki na masę |składniki na poncz
 --------------------|-------------------|-------------------|
@@ -25,7 +25,7 @@ składniki na ciasto | składniki na masę |składniki na poncz
 2-3 łyżki spirytusu| |
 
 
-
+Ciasto
 
 Składniki:
 
