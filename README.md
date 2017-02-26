@@ -27,7 +27,7 @@ składniki na ciasto | składniki na masę |składniki na poncz
 
 **Ciasto:**
 
-Składniki:
+_Składniki:_
 
 - 25 dag masła
 - 1/2 l mleka
@@ -42,7 +42,7 @@ Z mleka, cukru, budyniu ugotować budyń. Masło utrzeć, dodając przestudzony 
 
 **Masa kokosowa:**
 
-Składniki:
+_Składniki:_
 
 - 50 dag masła
 - 2 jaja
@@ -55,7 +55,7 @@ Zagotować 1 szklankę mleka i zaparzyć kokos. Całe jaja ubić z cukrem na par
 
 **Poncz:**
 
-Składniki:
+_Składniki:_
 
 - 1 szklanka zimnej, przegotowanej wody
 - sok z 3 cytrynsok z 3 cytryn
@@ -65,9 +65,11 @@ _Wykonanie:_
 
 Wszystkie składniki wymieszać i nasączyć 3 biszkopty.
 
-Przełożenie placka:
+_Przełożenie placka:_
 
 Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany z obu stron cienką warstwą masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany od spodu cienką warstwą masy orzechowej – polewa udekorowana kokosem.
+
+# Smacznego !!!
 
 
 
