@@ -23,7 +23,7 @@ masa orzechowa | składniki na masę |składniki na poncz
 2-3 łyżki cukru kryształu|1 szklanka mleka|  
 5-6 łyżek mielonych orzechów| |
 2-3 łyżki spirytusu| |
-
+3 cienkie biszkopty|
 
 ###**1. Masa orzechowa:**
 
