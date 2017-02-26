@@ -15,7 +15,7 @@
 ##**_Lista zakupów_**
 
 
-
+3 cienkie biszkopty|
 masa orzechowa | składniki na masę |składniki na poncz
 --------------------|-------------------|-------------------|
 25 dag masła|50 dag masła|1 szklanka zimnej, przegotowanej wody
