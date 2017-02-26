@@ -14,7 +14,9 @@
 
 ##**_Lista zakupów_**
 
-składniki na ciasto | składniki na masę |składniki na poncz
+3 cienkie biszkopty
+
+masa orzechowa | składniki na masę |składniki na poncz
 --------------------|-------------------|-------------------|
 25 dag masła|50 dag masła|1 szklanka zimnej, przegotowanej wody
 1/2 l mleka|2 jaja|sok z 3 cytry
