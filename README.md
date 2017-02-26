@@ -49,13 +49,13 @@ Z mleka, cukru, budyniu ugotować budyń. Masło utrzeć, dodając przestudzony 
 - 1 1/2 szklanki cukru kryształu
 - 1 szklanka mleka
 
-2.2 **_Wykonanie:_**
+2.2. **_Wykonanie:_**
 
 Zagotować 1 szklankę mleka i zaparzyć kokos. Całe jaja ubić z cukrem na parze. Wlewać cienkim strumieniem 1/2 szklanki gorącego mleka, ciągle ubijając, doprowadzić do wrzenia (nie gotować!). Przestudzić, ciągle ubijając. Masło utrzeć na pulchną masę, dodając przestudzoną masę jajeczną i kokos. Podzielić na 2 części.
 
 ###**3. Poncz:**
 
-  3.1.** _Składniki:_**
+  3.1. ** _Składniki:_**
 
 - 1 szklanka zimnej, przegotowanej wody
 - sok z 3 cytrynsok z 3 cytryn
