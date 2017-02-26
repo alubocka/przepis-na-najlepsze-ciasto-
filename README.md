@@ -13,6 +13,18 @@ mały koszt - duży zysk
 
 adres strony:(http://siostra-anastazja.pl/przepis/ciasto-anielskie.htm)
 
+*lista zakupów*
+
+składniki na ciasto | składniki na masę |składniki na poncz
+--------------------|-------------------|-------------------|
+25 dag masła|50 dag masła|1 szklanka zimnej, przegotowanej wody
+1/2 l mleka|2 jaja|sok z 3 cytry
+2 budynie waniliowe bez cukru|1 1/2 szklanki cukru kryształu|2 łyżki cukru kryształu
+2-3 łyżki cukru kryształu|1 szklanka mleka|  
+5-6 łyżek mielonych orzechów| |
+2-3 łyżki spirytusu| |
+
+
 
 
 Składniki:
@@ -58,14 +70,4 @@ Przełożenie placka:
 Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany z obu stron cienką warstwą masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany od spodu cienką warstwą masy orzechowej – polewa udekorowana kokosem.
 
 
-*lista zakupów*
-
-składniki na ciasto | składniki na masę |składniki na poncz
---------------------|-------------------|-------------------|
-25 dag masła|50 dag masła|1 szklanka zimnej, przegotowanej wody
-1/2 l mleka|2 jaja|sok z 3 cytry
-2 budynie waniliowe bez cukru|1 1/2 szklanki cukru kryształu|2 łyżki cukru kryształu
-2-3 łyżki cukru kryształu|1 szklanka mleka|  
-5-6 łyżek mielonych orzechów| |
-2-3 łyżki spirytusu| |
 
