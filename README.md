@@ -55,7 +55,7 @@ Zagotować 1 szklankę mleka i zaparzyć kokos. Całe jaja ubić z cukrem na par
 
 ###**3. Poncz:**
 
-  3.1. ** _Składniki:_**
+3.1. ** _Składniki:_**
 
 - 1 szklanka zimnej, przegotowanej wody
 - sok z 3 cytrynsok z 3 cytryn
