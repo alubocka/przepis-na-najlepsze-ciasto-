@@ -27,7 +27,7 @@ składniki na ciasto | składniki na masę |składniki na poncz
 
 **1. Ciasto:**
 
-  1.1_Składniki:_
+  1.1. _Składniki:_
 
 - 25 dag masła
 - 1/2 l mleka
