@@ -25,9 +25,9 @@ składniki na ciasto | składniki na masę |składniki na poncz
 2-3 łyżki spirytusu| |
 
 
-**Ciasto:**
+**1. Ciasto:**
 
-_Składniki:_
+  1.1_Składniki:_
 
 - 25 dag masła
 - 1/2 l mleka
@@ -40,7 +40,7 @@ _Wykonanie:_
 
 Z mleka, cukru, budyniu ugotować budyń. Masło utrzeć, dodając przestudzony budyń, orzechy i spirytus. Masę podzielić na 4 części.
 
-**Masa kokosowa:**
+**2. Masa kokosowa:**
 
 _Składniki:_
 
@@ -53,7 +53,7 @@ _Wykonanie:_
 
 Zagotować 1 szklankę mleka i zaparzyć kokos. Całe jaja ubić z cukrem na parze. Wlewać cienkim strumieniem 1/2 szklanki gorącego mleka, ciągle ubijając, doprowadzić do wrzenia (nie gotować!). Przestudzić, ciągle ubijając. Masło utrzeć na pulchną masę, dodając przestudzoną masę jajeczną i kokos. Podzielić na 2 części.
 
-**Poncz:**
+**3. Poncz:**
 
 _Składniki:_
 
