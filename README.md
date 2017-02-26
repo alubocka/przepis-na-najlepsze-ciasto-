@@ -69,7 +69,8 @@ Wszystkie składniki wymieszać i nasączyć 3 biszkopty.
 
 Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany z obu stron cienką warstwą masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany od spodu cienką warstwą masy orzechowej – polewa udekorowana kokosem.
 
-# Smacznego !!! 
+# Smacznego !!!   :birthday: :birthday: :birthday: 
+
   
 
 
