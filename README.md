@@ -71,5 +71,7 @@ Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej �
 
 # Smacznego !!!
 
+/play bell
+
 
 
