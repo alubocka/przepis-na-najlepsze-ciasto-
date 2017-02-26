@@ -14,7 +14,7 @@
 
 ##**_Lista zakupów_**
 
-* 3 cienkie biszkopty
+- 3 cienkie biszkopty
 
 masa orzechowa | składniki na masę |składniki na poncz
 --------------------|-------------------|-------------------|
