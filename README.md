@@ -1,4 +1,4 @@
-# :birthday:_*"Przepis na najlepsze ciasto"*_  :birthday:
+# :birthday:_ *"Przepis na najlepsze ciasto"*_  :birthday:
 
 >„Nie ma bardziej szczerej miłości niż miłość do jedzenia”.
 
