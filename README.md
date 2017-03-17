@@ -6,12 +6,10 @@
 
 **![ciastko](http://www.e-gify.pl/gify/rozne/jedzenie_i_picie/jedzenie_i_picie40.gif)**
 
+(http://siostra-anastazja.pl/przepis/ciasto-anielskie.htm)
 
 
 ![ciasto](http://siostra-anastazja.pl/wp-content/uploads/Ciasto-anielskie21-250x212.jpg)
-
-(http://siostra-anastazja.pl/przepis/ciasto-anielskie.htm)
-
 ##**_Lista zakupów_**
 
 - 3 cienkie biszkopty
