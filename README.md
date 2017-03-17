@@ -4,9 +4,7 @@
 
 >George Bernard Shaw
 
-
-![kaczor](https://media.giphy.com/media/iozt7fbfQO8V2/giphy.gif)
-![ciastko](http://www.e-gify.pl/gify/rozne/jedzenie_i_picie/jedzenie_i_picie40.gif)
+**![ciastko](http://www.e-gify.pl/gify/rozne/jedzenie_i_picie/jedzenie_i_picie40.gif)**
 
 
 
