@@ -21,7 +21,7 @@ masa orzechowa | składniki na masę |składniki na poncz
 5-6 łyżek mielonych orzechów| |
 2-3 łyżki spirytusu| |
 
-###**1. Biszkopt:**
+**1. Biszkopt:**
 
   1.1. **_Składniki:_** 
 - 6 jaj
@@ -33,7 +33,7 @@ masa orzechowa | składniki na masę |składniki na poncz
 
 Białka ubić na sztywno, dodać żółtka i cukier. Dodać mąkę zmieszaną z proszkiem do pieczenia i lekko wymieszać. Wylać na formę do pieczenia. Piec w temp. 160-180 st. C ok. 30-40 min.
 
-###**2. Masa orzechowa:**
+**2. Masa orzechowa:**
 
   2.1. **_Składniki:_**
 
@@ -48,7 +48,7 @@ Białka ubić na sztywno, dodać żółtka i cukier. Dodać mąkę zmieszaną z 
 
 Z mleka, cukru, budyniu ugotować budyń. Masło utrzeć, dodając przestudzony budyń, orzechy i spirytus. Masę podzielić na 4 części.
 
-###**3. Masa kokosowa:**
+**3. Masa kokosowa:**
 
   3.1. **_Składniki:_**
 
@@ -61,7 +61,7 @@ Z mleka, cukru, budyniu ugotować budyń. Masło utrzeć, dodając przestudzony 
 
 Zagotować 1 szklankę mleka i zaparzyć kokos. Całe jaja ubić z cukrem na parze. Wlewać cienkim strumieniem 1/2 szklanki gorącego mleka, ciągle ubijając, doprowadzić do wrzenia (nie gotować!). Przestudzić, ciągle ubijając. Masło utrzeć na pulchną masę, dodając przestudzoną masę jajeczną i kokos. Podzielić na 2 części.
 
-###**4. Poncz:**
+**4. Poncz:**
 
 4.1. **_Składniki:_**
 
@@ -73,14 +73,14 @@ Zagotować 1 szklankę mleka i zaparzyć kokos. Całe jaja ubić z cukrem na par
 
 Wszystkie składniki wymieszać i nasączyć 3 biszkopty.
 
-###_Przełożenie placka:_
+_Przełożenie placka:_
 
 Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany z obu stron cienką warstwą masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany od spodu cienką warstwą masy orzechowej – polewa udekorowana kokosem.
 
 
 ![ciasto](http://siostra-anastazja.pl/wp-content/uploads/Ciasto-anielskie21-250x212.jpg)
 
-#:birthday: :birthday: :birthday: Smacznego !!! :birthday: :birthday: :birthday: 
+<f1>:birthday: :birthday: :birthday: Smacznego !!! :birthday: :birthday: :birthday: <f1>
 
   
 
