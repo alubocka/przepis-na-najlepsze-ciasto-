@@ -9,10 +9,8 @@
 (http://siostra-anastazja.pl/przepis/ciasto-anielskie.htm)
 
 
-![ciasto](http://siostra-anastazja.pl/wp-content/uploads/Ciasto-anielskie21-250x212.jpg)
-##**_Lista zakupów_**
 
-- 3 cienkie biszkopty
+**_Lista zakupów_**
 
 masa orzechowa | składniki na masę |składniki na poncz
 --------------------|-------------------|-------------------|
@@ -78,6 +76,9 @@ Wszystkie składniki wymieszać i nasączyć 3 biszkopty.
 ###_Przełożenie placka:_
 
 Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany z obu stron cienką warstwą masy orzechowej – 1/2 masy kokosowej – biszkopt posmarowany od spodu cienką warstwą masy orzechowej – polewa udekorowana kokosem.
+
+
+![ciasto](http://siostra-anastazja.pl/wp-content/uploads/Ciasto-anielskie21-250x212.jpg)
 
 #:birthday: :birthday: :birthday: Smacznego !!! :birthday: :birthday: :birthday: 
 
