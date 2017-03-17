@@ -12,14 +12,18 @@
 
 **_Lista zakupów_**
 
-masa orzechowa | składniki na masę |składniki na poncz
+produkt | ilość |kalorie
 --------------------|-------------------|-------------------|
-25 dag masła|50 dag masła|1 szklanka zimnej, przegotowanej wody
-1/2 l mleka|2 jaja|sok z 3 cytry
-2 budynie waniliowe bez cukru|1 1/2 szklanki cukru kryształu|2 łyżki cukru kryształu
-2-3 łyżki cukru kryształu|1 szklanka mleka|  
-5-6 łyżek mielonych orzechów| |
-2-3 łyżki spirytusu| |
+masło|75 dag|5650
+jaja |8 szt |630
+mleko|3 szkl|340
+cukier|530 g|2100
+cytryna|3szt|66
+proszek do pieczenia|1łyżeczka|2
+budyń waniliowy|2 opakowania|260
+orzechy włoskie|50 g|330
+spirytus|3 łyżki|150
+
 
 **1. Biszkopt:**
 
@@ -66,7 +70,7 @@ Zagotować 1 szklankę mleka i zaparzyć kokos. Całe jaja ubić z cukrem na par
 4.1. **_Składniki:_**
 
 - 1 szklanka zimnej, przegotowanej wody
-- sok z 3 cytrynsok z 3 cytryn
+- sok z 3 cytryn
 - 2 łyżki cukru kryształu
 
 4.2. **_Wykonanie:_**
