@@ -80,9 +80,8 @@ Nasączony biszkopt – cienka warstwa masy orzechowej – 1/2 masy kokosowej �
 
 ![ciasto](http://siostra-anastazja.pl/wp-content/uploads/Ciasto-anielskie21-250x212.jpg)
 
-#:birthday: :birthday: :birthday: Smacznego !!! :birthday: :birthday: :birthday: 
+# :birthday: :birthday: :birthday: *Smacznego !!!* :birthday: :birthday: :birthday: 
 
-  
 
 
 
