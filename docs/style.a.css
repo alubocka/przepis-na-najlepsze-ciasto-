@@ -1,0 +1,151 @@
+*{box-sizing:border-box;}
+body
+{
+background-color: #0E7C3F;
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+	mrgin:0 ! important;
+
+}
+
+#z
+{
+	width: 100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.b
+{
+width: 100%;
+margin-top:10px;
+}	
+#c
+{
+width:500px;
+float:left;
+font-size:60px;
+margin-left: 60px;
+margin-top:80px;
+text-align: center;
+}
+#e
+{
+	width:500px;
+    float:left;
+	margin-left:40px;
+}	
+
+.g
+{
+	margin-top: 10px;
+	width: 100%;
+	padding: 10px 0;
+	background-color: #c34f4f;
+	text-align: center;
+	border:1px solid #751b1b;
+}
+#d
+{
+	width:980px;
+	margin:20px;
+	padding-left:70px;
+    font-size:38px;
+    margin-top:15px;
+    float:left;
+    text-align:right;
+
+}
+ol
+{
+	padding: 0;
+	margin:0;
+	list-style-type: none;
+	font-size:20px;
+	height:35px;
+	line-height: 200%;
+	display: inline-block;
+}
+
+ol a
+{
+	color: #ffffff;
+	text-decoration: none;
+	display:block;
+}
+ol > li 
+{
+	float:left;
+	width:150px;
+	height: 40px;
+	border-right: 1px solid #751b1b;
+}
+
+ol > li :first-child
+{
+	border-left: 1px solid #751b1b;
+}
+
+ol > li :hover
+{
+	background-color: #cf6969;
+}
+ol > li > ul 
+{
+	list -style-type: none;
+	padding: 0;
+	margin: 0;
+	height: 40px;
+	display: none;
+}
+ol > li:hover > ul 
+{
+	display: block ;
+}
+
+ol > li > ul >	li 
+{
+	background-color: #cf6969;
+	position: relative;
+	border-top: 1px solid #751b1b;
+}
+ol > li > ul > li :hover
+{
+	background-color: #c34f4f;
+}
+
+.lista
+{
+margin:auto;
+hight: 700px;
+width: 790px;
+padding; 50px;
+text-align: center;
+}
+
+@media (min-width: 1100px) {
+.z {width:1050px;}
+aside {width:30%;}
+#main {width:65%;}
+}
+@media (max-width: 1100px) and (min-width: 1000px) {
+.z {width:950px;}
+aside {width:30%;}
+#main {width:65%;}
+}
+@media (max-width: 1000px) and (min-width: 800px) {
+.z {width:750px;}
+aside {width:30%;}
+#main {width:65%;}
+}
+@media (max-width: 800px) and (min-width: 500px) {
+.z {width:450px;}
+aside,
+#main {width:100%;}
+}
+@media (max-width: 500px) {
+.z {width:90%;}
+aside,
+#main {width:100%;}
+}
+
